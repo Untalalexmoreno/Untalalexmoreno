@@ -8,21 +8,26 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 
-<h1>About Me! 😎</h1>
+<p align="center">
+  <img src="https://github.com/untalalexmoreno.png" height="200"/>
+</p>
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<h1>About Me! 😎</h1>
 
 **Junior Python Developer | Data • AI • SQL • Automation**
 
-- 👨‍💻 As a Mechatronics Engineer turned Software Developer, I’m passionate about combining hardware (microcontrollers, sensors) and software (Python, Pandas, NumPy) to build real-world automation and data-driven solutions.  
-- 💬 Ask me about my experience automating calibration workflows, processing industrial data pipelines,  Machine Learning and prototyping Arduino control systems.  
-- 🌱 I’m currently diving deeper into **[Machine Learning](https://www.coursera.org/browse/data-science/machine-learning)**, **[AI](https://www.deeplearning.ai/)**, and **[SQL database design](https://www.mysql.com/why-mysql/)**.  
+👨‍💻 As a Mechatronics Engineer turned Software Developer, I’m passionate about combining hardware (microcontrollers, sensors) and software (Python, Pandas, NumPy) to build real-world automation and data-driven solutions.  
+💬 Ask me about my experience automating calibration workflows, processing industrial data pipelines,  Machine Learning and prototyping Arduino control systems.  
 
+### 🌱 Currently Learning
+- 📘 Machine Learning: [Coursera](https://www.coursera.org/browse/data-science/machine-learning)
+- 🤖 Artificial Intelligence: [DeepLearning.AI](https://www.deeplearning.ai/)
+- 🧠 SQL & Data Modeling: [MySQL](https://www.mysql.com/why-mysql/)
 
 ## 🛠 &nbsp;Tech Stack
 
-#### 🔧 Languages
-
+#### 🔧 &nbsp;Languages
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -30,43 +35,22 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
-#### 🖥️ Frameworks
+### 🗃 &nbsp;Databases
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)&nbsp;
 
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+### 📚 Libraries & Frameworks
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E20000.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
 
-#### 📚 Libraries
-
-![Numpy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E20000.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
-
-#### 🔧 Tools
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23121011.svg?style=for-the-badge&logo=gitlab&logoColor=yello)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-%23000000.svg?style=for-the-badge&logo=android-studio&logoColor=3DDC84)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?style=for-the-badge&logo=adobe%20xd&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
 ### 🛠 &nbsp;Tech Stack
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
@@ -84,16 +68,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 
-### 🗃 &nbsp;Databases
-
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)&nbsp;
-
-
 ### 🧰 &nbsp;Version Controll & Tools 
-
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
@@ -111,6 +86,19 @@
 ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)&nbsp;
 ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white)&nbsp;
 
+<h2>👀 My github Stats</h2>
+
+<div>
+  <p align="center">
+  <b><em>GitHub Stats:</em></b> <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhargavi-hash" alt="GitHub Stats" /> <br/><br/>
+  
+</div>
+
+![My github status](https://github-readme-stats.vercel.app/api?username=Bhargavi-hash&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavi-hash&layout=compact)
+
+
 __Check out my GitHub repository:__
 
 <div>
@@ -124,24 +112,6 @@ __Check out my GitHub repository:__
   </p>
 </div>
 
-
-<h2>👀 My github Stats</h2>
-
-<div>
-
-  
-  <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhargavi-hash" alt="GitHub Stats" /> <br/><br/>
-  
-</div>
-
-![My github status](https://github-readme-stats.vercel.app/api?username=Bhargavi-hash&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavi-hash&layout=compact)
-
-
-
-
 <hr>
 <p align="center">
    <i>No tree, it is said, can grow to heaven unless its roots are in hell.</i>
@@ -149,7 +119,7 @@ __Check out my GitHub repository:__
 
 </p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me 📫 :</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauro_brant-1/)
