@@ -61,7 +61,7 @@
 ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)&nbsp;
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)&nbsp;
 
-## 🚀 &nbsp;Check out my repository
+## 🚀 &nbsp;Check Out My Repository
 
 <div align="center"> 
   <a href="https://github.com/Untalalexmoreno/hello-git-mouredev">
@@ -89,7 +89,7 @@
 
 
 
-## 📫 &nbsp;Connect with me
+## 📫 &nbsp;Connect With Me
 
 <div align="center">
 
