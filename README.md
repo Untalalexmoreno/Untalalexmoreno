@@ -64,13 +64,9 @@
 ## 📂 &nbsp;Check out my repository
 
 <div>
-  <p>
-    <a href="https://github.com/Bhargavi-hash/HotelFranchiseDBMS.git">
+   <p align="center">
+    <a href="https://github.com/Untalalexmoreno/hello-git-mouredev">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/Bhargavi-hash/Linux-Shell-Implementation.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
-    </a>
   </p>
 </div>
 
