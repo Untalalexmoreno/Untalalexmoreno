@@ -61,13 +61,12 @@
 ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)&nbsp;
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)&nbsp;
 
-## 📂 &nbsp;Check out my repository
+## 🚀 &nbsp;Check out my repository
 
-<div>
-   <p align="center">
-    <a href="https://github.com/Untalalexmoreno/hello-git-mouredev">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
-  </p>
+<div align="center"> 
+  <a href="https://github.com/Untalalexmoreno/hello-git-mouredev">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Untalalexmoreno&repo=hello-git-mouredev&title=-Reviews&no-frame=true&margin-w=4&margin-h=4"alt="Hello Git" />
+  </a>
 </div>
 
 ## 📊 &nbsp;Profile Statistics
@@ -75,18 +74,19 @@
 <div>
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhargavi-hash" alt="GitHub Stats" /> <br/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Untalalexmoreno" alt="GitHub Stats" /> <br/><br/>
   
 </div>
 
-![My github status](https://github-readme-stats.vercel.app/api?username=Bhargavi-hash&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavi-hash&layout=compact)
+![My github status](https://github-readme-stats.vercel.app/api?username=Untalalexmoreno&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Untalalexmoreno&layout=compact)
 
 <p align="center">
    <i>No tree, it is said, can grow to heaven unless its roots are in hell.</i>
    <br>
 
 </p>
+
 
 
 ## 📫 &nbsp;Connect with me
