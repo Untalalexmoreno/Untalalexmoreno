@@ -69,25 +69,18 @@
   </a>
 </div>
 
-## 📊 &nbsp;Profile Statistics
+## 📊 &nbsp;GitHub Analytics
 
-<div>
-  <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Untalalexmoreno" alt="GitHub Stats" /> <br/><br/>
-  
-</div>
+<div align="center">
 
 ![My github status](https://github-readme-stats.vercel.app/api?username=Untalalexmoreno&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Untalalexmoreno&layout=compact)
 
-<p align="center">
-   <i>No tree, it is said, can grow to heaven unless its roots are in hell.</i>
-   <br>
+<i> 
+  <b>From the roots of syntax errors grows the tree of flawless execution.</b> 
+</i>
 
-</p>
-
-
+</div>
 
 ## 📫 &nbsp;Connect With Me
 
