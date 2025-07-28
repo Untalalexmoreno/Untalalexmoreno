@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Alex Moreno <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+  <img src="https://github.com/Untalalexmoreno/Untalalexmoreno/blob/main/avataralexmoreno.png" height="200"/>
 </p>
 
 <h1>About Me! 😎</h1>
